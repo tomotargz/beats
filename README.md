@@ -4,7 +4,7 @@
 [![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg)](https://houndci.com)
 
 # Beats - The Lightweight Shippers of the Elastic Stack
-
+hoge
 The [Beats](https://www.elastic.co/products/beats) are lightweight data
 shippers, written in Go, that you install on your servers to capture all sorts
 of operational data (think of logs, metrics, or network packet data). The Beats
